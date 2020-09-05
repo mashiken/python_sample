@@ -25,3 +25,12 @@ result = a001.jedge(avg)
 
 print(avg)
 print(a001.name+" "+result)
+
+a002 = Student("yamato")
+date2 = [45,55,55,46,11]
+avg2 = a002.calculate_avg(date)
+result2 = a002.jedge(avg)
+
+
+print(avg2)
+print(a001.name+" "+result2)

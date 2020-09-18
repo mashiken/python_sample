@@ -9,7 +9,9 @@ class Student:
 a001 = Student("sato") #インスタンス化 オブジェクト生成
 a002 = Student("tanaka") #a002=インスタンス Student クラス
 a003 = Student("hujisaki")
+a004 = Student("hujisaki")
 
 print(a001.name)
 print(a002.name)
 print(a003.name)
+print(a004.name)

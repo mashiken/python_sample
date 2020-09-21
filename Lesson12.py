@@ -27,5 +27,6 @@ def ave(num01,num02,num03):
     return(num01 + num02 + num03) / 3
 
 average = ave(9,4,2)
+print(avarage)
 average = ave(29,24,22)
 print(average)

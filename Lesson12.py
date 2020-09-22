@@ -30,3 +30,9 @@ average = ave(9,4,2)
 print(avarage)
 average = ave(29,24,22)
 print(average)
+
+def num(sum01,sum02,sum03):
+    return(sum01 + sum02 + sum03)
+
+sum = num(10,20,30)
+print(sum)

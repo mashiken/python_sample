@@ -36,3 +36,9 @@ def num(sum01,sum02,sum03):
 
 sum = num(10,20,30)
 print(sum)
+
+def num(sum04,sum05,sum06):
+    return(sum04 + sum05 + sum06)
+
+sum = num(4,5,6)
+print(sum)
